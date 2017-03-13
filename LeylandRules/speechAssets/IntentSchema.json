@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "LeylandRulesIntent"
+    },
+    {
+      "intent": "WhoDidntIntent"
+    },
+    {
+        "intent": "WhatAreYouIntent"
+    },
+    {
+        "intent": "LoveYouIntent"
+    },
+    {
+       "intent": "GuessMyCardIntent" 
+    },
+    {
+       "intent": "DrinkIntent" 
+    },
+    {
+       "intent": "ShutUpIntent" 
+    }
+    ]
+}

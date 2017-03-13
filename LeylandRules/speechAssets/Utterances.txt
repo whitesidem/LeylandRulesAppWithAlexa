@@ -1,0 +1,26 @@
+LeylandRulesIntent Who won
+LeylandRulesIntent Who wins
+LeylandRulesIntent Who is the best
+
+WhoDidntIntent Who didnt
+WhoDidntIntent Who did not
+WhoDidntIntent Did you win
+
+WhatAreYouIntent So what are you
+WhatAreYouIntent And you are
+WhatAreYouIntent That makes you
+
+GuessMyCardIntent Guess my card
+GuessMyCardIntent Pick a card
+GuessMyCardIntent choose a random card
+
+LoveYouIntent Love you Alexa
+LoveYouIntent Love you
+
+DrinkIntent Can you get me a drink
+DrinkIntent Get me a drink
+DrinkIntent Make me a drink
+DrinkIntent Can I have a drink
+
+ShutUpIntent Be quiet
+ShutUpIntent volume down please
